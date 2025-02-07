@@ -11,7 +11,7 @@ baseurl: "/neumorphism"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Harshal
+username: Harshal More
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: IT Engineer
@@ -34,8 +34,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Results-driven IT Engineer with nearly 5 years of experience in identity and access management (IAM), cloud security and automation. Expertise in designing and managing Okta IAM frameworks, optimizing IT infrastructure, and automating identity lifecycle processes, while ensuring the timely delivery of security solutions across global infrastructures. Skilled in troubleshooting enterprise systems, implementing security protocols and enhancing operational efficiency using scripting and cloud-based solutions. <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: Results-driven IT Engineer with nearly 5 years of experience in identity and access management (IAM), cloud security and automation. Expertise in designing and managing Okta IAM frameworks, optimizing IT infrastructure, and automating identity lifecycle processes, while ensuring the timely delivery of security solutions across global infrastructures. Skilled in troubleshooting enterprise systems, implementing security protocols and enhancing operational efficiency using scripting and cloud-based solutions.
+# removed from above description but could be useful <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
